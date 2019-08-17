@@ -35,7 +35,7 @@ curl -X POST \
 * sub message
 
 ```code
-arn run v1.17.3
+yarn run v1.17.3
 $ node app.js
 { seq: 6, data: { text: 'dalongrong' } }
 ```
