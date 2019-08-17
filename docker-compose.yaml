@@ -16,3 +16,6 @@ services:
     image: redis
     ports: 
     - "6379:6379"
+  nodejs:
+    build: ./
+    image: dalongrong/centrifugal-nodejs
