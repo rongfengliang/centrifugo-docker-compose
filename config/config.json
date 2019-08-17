@@ -1,0 +1,17 @@
+{
+  "secret": "05f0842d-c302-4036-a19f-6ac263b9f620",
+  "admin_password": "ca0e58bb-5fde-43b6-adce-b62392420ffc",
+  "admin_secret": "b10b2ab3-8e29-428b-85cb-42a32ba6ea57",
+  "api_key": "cbf46e80-3e00-4642-8f3a-369b8707304d",
+  "anonymous": true,
+  "publish": true,
+  "subscribe_to_publish": true,
+  "presence": true,
+  "debug":true,
+  "client_anonymous":true,
+  "join_leave": true,
+  "history_size": 10,
+  "history_lifetime": 300,
+  "history_recover": true,
+  "prometheus": true
+}
